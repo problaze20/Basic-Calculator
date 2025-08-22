@@ -4,12 +4,23 @@
 
 <h2 align="center">Basic Calculator</h2>
 
+
 <p align="center">
-  <img src="https://img.shields.io/github/stars/problaze20/basic-calculator?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/problaze20/basic-calculator?style=social" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/problaze20/basic-calculator" alt="Open Issues" />
-  <img src="https://img.shields.io/github/license/problaze20/basic-calculator" alt="License" />
+  <a href="https://github.com/problaze20/Basic-Calculator/stargazers">
+    <img src="https://img.shields.io/github/stars/problaze20/basic-calculator?style=flat-square" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/problaze20/Basic-Calculator/network">
+    <img src="https://img.shields.io/github/forks/problaze20/basic-calculator?style=flat-square" alt="GitHub forks" />
+  </a>
+  <a href="https://github.com/problaze20/Basic-Calculator/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/problaze20/basic-calculator?style=flat-square" alt="GitHub license" />
+  </a>
+  <a href="https://github.com/problaze20/Basic-Calculator/issues">
+    <img src="https://img.shields.io/github/issues/problaze20/basic-calculator?style=flat-square" alt="GitHub issues" />
+  </a>
 </p>
+
+
 
 <p align="center">
   • <a href="https://github.com/problaze20/Basic-Calculator/releases/tag/intel-v1.0.0">Download for Intel</a> •
