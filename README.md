@@ -1,4 +1,5 @@
-# Basic-Calculator
-Basic Calculator App For MacOS, Works in Intel and Apple Silicon
+# Basic Calculator
 
-Apple Silicon Support Comming Soon!
+A simple calculator app for macOS, compatible with both Intel and Apple Silicon architectures.
+
+> ⚠ Apple Silicon support coming soon!
