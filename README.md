@@ -21,7 +21,7 @@
 
 ### Current Features
 
-- ✅ Basic arithmetic operators: `+`, `-`, `*`, `%`, `=`, `÷`
-- ✅ Dark and Light Mode support
-- ✅ Essential calculator functionality
+- [x] Basic arithmetic operators: `+`, `-`, `*`, `%`, `=`, `÷`
+- [x] Dark and Light Mode support
+- [x] Essential calculator functionality
 
