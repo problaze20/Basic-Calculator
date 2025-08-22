@@ -5,10 +5,10 @@
 <h2 align="center">Basic Calculator</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/problaze20/Basic-Calculator?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/problaze20/Basic-Calculator?style=social" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/problaze20/Basic-Calculator" alt="Open Issues" />
-  <img src="https://img.shields.io/github/license/problaze20/Basic-Calculator" alt="License" />
+  <img src="https://img.shields.io/github/stars/problaze20/basic-calculator?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/problaze20/basic-calculator?style=social" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/problaze20/basic-calculator" alt="Open Issues" />
+  <img src="https://img.shields.io/github/license/problaze20/basic-calculator" alt="License" />
 </p>
 
 <p align="center">
