@@ -1,11 +1,15 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/problaze20/Basic-Calculator/main/Images/icon_512x512x32.png" alt="Basic Calculator Logo" width="200"/>
+</p>
+
+<h2 align="center">Basic Calculator</h2>
+
+<p align="center">
   <img src="https://img.shields.io/github/stars/problaze20/Basic-Calculator?style=social" alt="Stars" />
   <img src="https://img.shields.io/github/forks/problaze20/Basic-Calculator?style=social" alt="Forks" />
   <img src="https://img.shields.io/github/issues/problaze20/Basic-Calculator" alt="Open Issues" />
   <img src="https://img.shields.io/github/license/problaze20/Basic-Calculator" alt="License" />
 </p>
-
-<h2 align="center">Basic Calculator</h2>
 
 <p align="center">
   • <a href="https://github.com/problaze20/Basic-Calculator/releases/tag/intel-v1.0.0">Download for Intel</a> •
@@ -24,4 +28,3 @@
 - [x] Basic arithmetic operators: `+`, `-`, `*`, `%`, `=`, `÷`
 - [x] Dark and Light Mode support
 - [x] Essential calculator functionality
-
